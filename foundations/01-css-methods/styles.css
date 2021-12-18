@@ -1,0 +1,10 @@
+div {
+    color: green;
+    background-color: black;
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: auto;
+    width: 1000px;
+}
